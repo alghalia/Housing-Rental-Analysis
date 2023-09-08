@@ -1,5 +1,6 @@
-About The Project
-The main objective of this App is to visualize and analyze the housing rental market data for San Francisco into the below areas so that a person can make an investment decision. For example, you can look for areas that demand high $$ for rent but you can buy at a lower sale price per square foot:
+##About The Project
+
+The main objective of this App is to visualize and analyze the housing rental market data for San Francisco in the below areas so that a person can make an investment decision. For example, you can look for areas that demand high $$ for rent but you can buy at a lower sale price per square foot:
 
 - Housing units per year.
 
